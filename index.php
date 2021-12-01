@@ -28,7 +28,8 @@
                         <div class="column one">
                             <div class="top_bar_left clearfix">
                                 <div class="logo">
-                                    <a id="logo" href="index.php" title="BeDenim - BeTheme" data-height="60" data-padding="0"><img class="logo-main scale-with-grid" src="images/denim.png" data-retina="images/retina-denim.png" data-height="21"><img class="logo-sticky scale-with-grid" src="images/denim.png" data-retina="images/retina-denim.png" data-height="21"><img class="logo-mobile scale-with-grid" src="images/denim.png" data-retina="images/retina-denim.png" data-height="21"><img class="logo-mobile-sticky scale-with-grid" src="images/denim.png" data-retina="images/retina-denim.png" data-height="21">
+                                    <a id="logo" href="index.php" data-height="60" data-padding="0">
+                                        <img class="logo-main scale-with-grid" src="images/tatc-logo.gif">
                                     </a>
                                 </div>
                                 <div class="menu_wrapper">
@@ -46,7 +47,8 @@
                                 </div>
                             </div>
                             <div class="top_bar_right">
-                                <div class="top_bar_right_wrapper"><a id="header_cart" href="cart.php"><i class="icon-bag-fine"></i><span>0</span></a>
+                                <div class="top_bar_right_wrapper">
+                                    <!--<a id="header_cart" href="cart.php"><i class="icon-bag-fine"></i><span>0</span></a>-->
                                 </div>
                             </div>
                         </div>
